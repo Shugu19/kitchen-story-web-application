@@ -240,7 +240,7 @@ header .shopping-cart .box .fa-trash:hover{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(/image/banner-bg.webp) no-repeat;
+    background: url(/public/image/banner-bg.webp) no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 17rem;
